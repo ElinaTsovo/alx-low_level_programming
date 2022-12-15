@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- *  * _isupper - checks upper case
- *   * @c: print nt
- *    * Return: 1 if uppercase and 0 if not
-     */
+ * _isupper - checks upper case
+ * @c: print nt
+ * Return: 1 if uppercase and 0 if not
+ */
 
 int_isupper(int c)
 {
